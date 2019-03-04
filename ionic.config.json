@@ -1,0 +1,7 @@
+{
+  "name": "location-permission",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
